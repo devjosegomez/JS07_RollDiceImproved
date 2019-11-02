@@ -5,6 +5,9 @@ button.addEventListener("click",() =>{
     let rollDice = roll(6);
     console.log(rollDice);
     let diceHolder = builder(rollDice);
+    if(output.children[0]){
+        output.children[0].remove();
+    }
     output.appendChild(diceHolder);
 });
 
