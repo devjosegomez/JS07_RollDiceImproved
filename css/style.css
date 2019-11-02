@@ -11,6 +11,14 @@
     border-radius: 10px;
 }
 
+.dot{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 2px;
+}
+
 button{
     text-align: center;
     padding: 10px;
