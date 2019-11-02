@@ -19,6 +19,14 @@
     margin: 2px;
 }
 
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
 button{
     text-align: center;
     padding: 10px;
