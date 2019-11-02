@@ -1,0 +1,22 @@
+#player1, #player2{
+    display: inline-block;
+    width: 200px;
+    height: 140px;
+    border: 5px solid red;
+    padding: 5px;
+    margin: 25px;
+    text-align: center;
+    font-size: 8em;
+}
+
+#output{
+    width: 550px;
+    text-align: center;
+    font-size: 2em;
+}
+
+button{
+    text-align: center;
+    padding: 10px;
+    width: 550px;
+}
